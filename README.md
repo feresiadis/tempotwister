@@ -40,6 +40,7 @@ Ensure you have the following installed on your Linux system:
     sudo pacman -S mpv socat
 
 Instructions to run the script:
+
     Make sure to place this script in a directory that contains your MP3 files or adjust the script to point to the correct directory.
     Default Directory:
     If you frequently use the same directory, you can set a default directory in the script by modifying the line: read -e mp3_dir
