@@ -1,7 +1,8 @@
 # tempotwister
 
 A Bash script to control MP3 playback with tempo adjustment and navigation using keyboard controls.
-
+For example, you can use this script to slow down an electric guitar solo, letting you meticulously listen to each note and nuance—making it easier to learn and play the piece yourself.
+ 
 Description
 
 TempoTuner is a command-line MP3 player for Linux that emulates the functionality of the Pacemaker plugin for Winamp. It allows users to:
