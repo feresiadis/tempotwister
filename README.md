@@ -1,7 +1,7 @@
 # tempotwister
 
 A Bash script to control MP3 playback with tempo adjustment and navigation using keyboard controls.
-For example, you can use this script to slow down an electric guitar solo, letting you meticulously listen to each note and nuance—making it easier to learn and play the piece yourself.
+For example, you can use this script to slow down an electric guitar solo, letting you meticulously listen to each note and nuance, making it easier to learn and play the piece yourself.
  
 Description
 
