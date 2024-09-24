@@ -96,6 +96,7 @@ Troubleshooting
     Check for any error messages regarding missing dependencies or incorrect directory paths.
 
 Acknowledgments
+
 mpv: For providing a versatile media player with IPC capabilities.
 socat: For enabling communication between processes.
 Inspiration: Based on the functionality of the Pacemaker plugin for Winamp.
