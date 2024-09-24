@@ -40,6 +40,11 @@ Ensure you have the following installed on your Linux system:
     For Arch Linux:
     sudo pacman -S mpv socat
 
+Installation
+
+    Save the script as tempotwister.sh
+    wget -O tempotwister.sh https://github.com/feresiadis/tempotwister/blob/main/tempotwister.sh
+ 
 Instructions to run the script:
 
     Make sure to place this script in a directory that contains your MP3 files or adjust the script to point to the correct directory.
