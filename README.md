@@ -5,15 +5,15 @@ For example, you can use this script to slow down an electric guitar solo, letti
  
 Description
 
+This script is ideal for musicians, language learners, or anyone who needs to adjust the playback speed of audio files without affecting the pitch.
+Features
+
 TempoTuner is a command-line MP3 player for Linux that emulates the functionality of the Pacemaker plugin for Winamp. It allows users to:
 
     Play MP3 files with real-time tempo adjustment.
     Control playback using intuitive keyboard shortcuts.
     Navigate through audio tracks with ease.
     Continuously display the current tempo rate and playback time.
-
-This script is ideal for musicians, language learners, or anyone who needs to adjust the playback speed of audio files without affecting the pitch.
-Features
 
     Tempo Adjustment: Increase or decrease the playback speed using the Up and Down arrow keys.
     Playback Navigation: Fast-forward and rewind through the track using the Right and Left arrow keys.
