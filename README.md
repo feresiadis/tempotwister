@@ -97,11 +97,11 @@ Troubleshooting
 
 Acknowledgments
 
-mpv: For providing a versatile media player with IPC capabilities.
+    mpv: For providing a versatile media player with IPC capabilities.
 
-socat: For enabling communication between processes.
+    socat: For enabling communication between processes.
 
-Inspiration: Based on the functionality of the Pacemaker plugin for Winamp.
+    Inspiration: Based on the functionality of the Pacemaker plugin for Winamp.
 
     
 
